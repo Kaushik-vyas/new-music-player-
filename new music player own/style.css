@@ -1,0 +1,32 @@
+body{
+    background-color: #faebd7;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#con{
+
+    background-color: cornsilk;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+    box-shadow: 15px 10px 15px 10px;
+    border-radius: 15px;
+
+}
+
+#au{
+    margin-top: 10px;
+}
+
+#btn{
+    margin-top: 10px;   
+}
+button{
+    border-radius: 10px;
+    width: 70px;
+}
+
